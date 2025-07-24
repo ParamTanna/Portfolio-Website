@@ -46,48 +46,48 @@ const projects = {
             link: "https://paramtanna.github.io/Portfolio-Website/"
         },
         // {
-        //     title: "Portfolio Website",
-        //     desc: "Fully responsive personal website built using HTML, CSS, and JavaScript.",
-        //     link: "https://github.com/ParamTanna/project2"
+        //     title: "",
+        //     desc: "",
+        //     link: ""
         // },
         // {
-        //     title: "E-Commerce App",
-        //     desc: "Full-stack e-commerce web app with cart, payments and dashboard.",
-        //     link: "https://github.com/ParamTanna/project3"
+        //     title: "",
+        //     desc: "",
+        //     link: ""
         // }
     ],
     "Machine Learning": [
         // {
-        //     title: "Face Emotion Detector",
-        //     desc: "A CNN-based model to classify human emotions using facial expressions.",
-        //     link: "https://github.com/ParamTanna/ml1"
+        //     title: "",
+        //     desc: "",
+        //     link: ""
         // },
         // {
-        //     title: "House Price Prediction",
-        //     desc: "Regression models to predict housing prices using scikit-learn.",
-        //     link: "https://github.com/ParamTanna/ml2"
+        //     title: "",
+        //     desc: "",
+        //     link: ""
         // },
         // {
-        //     title: "Digit Recognition",
-        //     desc: "MNIST digit recognition using deep neural networks.",
-        //     link: "https://github.com/ParamTanna/ml3"
+        //     title: "",
+        //     desc: "",
+        //     link: ""
         // }
     ],
     "Quantitative Analysis": [
         // {
-        //     title: "Options Backtester",
-        //     desc: "Backtesting strategy using Bollinger Bands and Moon Phases for NIFTY futures.",
-        //     link: "https://github.com/ParamTanna/quant1"
+        //     title: "",
+        //     desc: "",
+        //     link: ""
         // },
         // {
-        //     title: "Stock Correlation Explorer",
-        //     desc: "Exploring inter-stock correlations using pandas and seaborn.",
-        //     link: "https://github.com/ParamTanna/quant2"
+        //     title: "",
+        //     desc: "",
+        //     link: ""
         // },
         // {
-        //     title: "Momentum Screener",
-        //     desc: "Screening high-momentum stocks using Python and financial APIs.",
-        //     link: "https://github.com/ParamTanna/quant3"
+        //     title: "",
+        //     desc: "",
+        //     link: ""
         // }
     ]
 };
