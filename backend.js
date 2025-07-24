@@ -43,7 +43,7 @@ const projects = {
         {
             title: "Portfolio Website",
             desc: "Fully responsive personal website built using HTML, CSS, and JavaScript.",
-            link: "https://github.com/ParamTanna/project1"
+            link: "https://paramtanna.github.io/Portfolio-Website/"
         },
         // {
         //     title: "Portfolio Website",
