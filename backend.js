@@ -7,7 +7,7 @@ menuIcon.addEventListener('click', () => {
 
 // ----------------------------------------------------------------------------------------------------------------------
 
-const roles = ["Student!", "Content Creator!", "Engineer!"];
+const roles = ["a Student!", "a Content Creator!", "an Engineer!"];
 const typedText = document.getElementById("typed-text");
 
 let roleIndex = 0;
